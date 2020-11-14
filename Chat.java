@@ -11,4 +11,5 @@ public class Chat extends Animal implements Bruit {
 		System.out.println("Miaou !") ;
 	}
 
+	//changement à retirer
 }
