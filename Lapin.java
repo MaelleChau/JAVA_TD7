@@ -7,5 +7,6 @@ public class Lapin {
 		
 		
 	}
+	// commentaire à retirer 
 
 }
